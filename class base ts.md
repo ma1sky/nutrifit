@@ -4,6 +4,10 @@
 export class Admin {
   
 }
+
+export class training {
+
+}
 export class User {
   id: number;
   name: string;
