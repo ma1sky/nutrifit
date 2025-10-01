@@ -1,5 +1,9 @@
 ```ts
 // User.ts
+
+export class Admin {
+  
+}
 export class User {
   id: number;
   name: string;
