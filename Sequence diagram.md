@@ -1,7 +1,7 @@
 ```
 @startuml
 actor User
-
+actor Admin
 participant "App" as App
 participant "RecommendationEngine" as RE
 participant "MealPlan" as MP
